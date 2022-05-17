@@ -57,7 +57,7 @@
         <version.lib.activation-api>1.2.2</version.lib.activation-api>
         <version.lib.asciidoctor.diagram>2.0.2</version.lib.asciidoctor.diagram>
         <version.lib.bedrock>5.1.2</version.lib.bedrock>
-        <version.lib.checkstyle>8.18</version.lib.checkstyle>
+        <version.lib.checkstyle>8.29</version.lib.checkstyle>
         <version.lib.commonjava.directory>0.3.1</version.lib.commonjava.directory>
         <version.lib.glassfish.jmxmp>1.0-b01-ea</version.lib.glassfish.jmxmp>
         <version.lib.glassfish.copyright>2.1</version.lib.glassfish.copyright>
